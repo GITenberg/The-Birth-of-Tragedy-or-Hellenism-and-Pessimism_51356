@@ -1,5 +1,5 @@
 _repo: The-Birth-of-Tragedy-or-Hellenism-and-Pessimism_51356
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Die Geburt der Tragödie. English
 contributor:
   translator:
@@ -7,6 +7,9 @@ contributor:
     alias: Haussmann, William August
     gutenberg_agent_id: '46374'
     url: http://www.gutenberg.org/2009/agents/46374
+covers:
+- cover_type: archival
+  image_path: 51356-h/images/cover.jpg
 creator:
   author:
     agent_name: Nietzsche, Friedrich Wilhelm
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7862
     wikipedia: http://en.wikipedia.org/wiki/Oscar_Levy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51356#The-Birth-of-Tragedy-or-Hellenism-and-Pessimism
 gutenberg_issued: '2016-03-04'
 gutenberg_type: Text
 identifiers:
